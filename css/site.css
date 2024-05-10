@@ -1,0 +1,122 @@
+@import url("bootstrap.min.css");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css");
+
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+    /*font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+}
+
+/**
+ * breadcrumb
+ * --------------------------------------------------
+ */
+
+.breadcrumb {
+  color: #434a54;
+  background-color: rgb(241, 242, 246);
+}
+
+/*
+.breadcrumb > .active {
+  color: #434a54;
+}
+.breadcrumb a {
+  color: #3bafda;
+}
+
+.breadcrumb-arrow {
+  height: 36px;
+  padding: 0;
+  line-height: 36px;
+  list-style: none;
+  background-color: rgb(241, 242, 246);
+}
+.breadcrumb-arrow li:first-child a {
+          border-radius: 4px 0 0 4px;
+
+  -webkit-border-radius: 4px 0 0 4px;
+     -moz-border-radius: 4px 0 0 4px;
+}
+.breadcrumb-arrow li, .breadcrumb-arrow li a, .breadcrumb-arrow li span {
+  display: inline-block;
+  vertical-align: top;
+}
+.breadcrumb-arrow li:not(:first-child) {
+  margin-left: -5px;
+}
+.breadcrumb-arrow li + li:before {
+  padding: 0;
+  content: "";
+}
+.breadcrumb-arrow li span {
+  padding: 0 10px;
+}
+.breadcrumb-arrow li a, .breadcrumb-arrow li:not(:first-child) span {
+  height: 36px;
+  padding: 0 10px 0 25px;
+  line-height: 36px;
+}
+.breadcrumb-arrow li:first-child a {
+  padding: 0 10px;
+}
+.breadcrumb-arrow li a {
+  position: relative;
+  color: white;
+  text-decoration: none;
+  background-color: #3bafda;
+  border: 1px solid #3bafda;
+
+}
+.breadcrumb-arrow li:first-child a {
+  padding-left: 10px;
+}
+.breadcrumb-arrow li a:before, .breadcrumb-arrow li a:after {
+  position: absolute;
+  top: -1px;
+  width: 0;
+  height: 0;
+  content: '';
+  border-top: 18px solid transparent;
+  border-bottom: 18px solid transparent;
+}
+.breadcrumb-arrow li a:before {
+  right: -10px;
+  z-index: 3;
+  border-left-color: #3bafda;
+  border-left-style: solid;
+  border-left-width: 11px;
+}
+.breadcrumb-arrow li a:after {
+  right: -11px;
+  z-index: 2;
+  border-left: 11px solid #2494be;
+}
+.breadcrumb-arrow li a:hover, .breadcrumb-arrow li a:focus {
+  background-color: #4fc1e9;
+  border: 1px solid #4fc1e9;
+}
+.breadcrumb-arrow li a:hover:before, .breadcrumb-arrow li a:focus:before {
+  border-left-color: #4fc1e9;
+}
+.breadcrumb-arrow li a:active {
+  background-color: #2494be;
+  border: 1px solid #2494be;
+}
+.breadcrumb-arrow li a:active:before, .breadcrumb-arrow li a:active:after {
+  border-left-color: #2494be;
+}
+.breadcrumb-arrow li span {
+  color: #434a54;
+}
+*/
+
+/**
+ * panels
+ * --------------------------------------------------
+ 
+.panel-primary > .panel-heading {
+  color: #ffffff;
+  background-color: #3bafda;
+  border-color: #3bafda;
+}
+*/
